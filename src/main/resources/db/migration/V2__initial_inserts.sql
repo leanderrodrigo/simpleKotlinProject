@@ -1,0 +1,2 @@
+INSERT INTO curso VALUES ('c8659223-41b9-4be4-91d4-8e1c80ae300b' , 'Desenvolvimento' , 'Kotlin');
+INSERT INTO usuario VALUES ('4280dc3f-11f5-43c6-9d38-989ce1b515ef' , 'leanderrodrigo@gmail.com', 'Leander Ribeiro');
